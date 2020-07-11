@@ -11,6 +11,12 @@
 
 # 简介 
 
+Feiyu is a video player, which is developed using Flutter and supports #.m3u8, #.rtsp, #.rtmp video formats. 
+
+You are free to add search sources within the application that complies with the FeiFeiCms interface specification or Live feeds in #.dpl,  #.m3u, #.xspf formats.
+
+Meanwhile, you can also collect your favorite movies and make a movie list to record your movie-going history. That's all,  have a good time. 
+
 飞鱼是使用Flutter开发的支援 #.m3u8, #.rtsp, #.rtmp 格式的视频播放器。
 
 你可以在应用内自由添加符合 FeiFeiCms 接口规范的搜索源或者 #.dpl, #.m3u, #.xspf 格式的直播源。同时，你也可以收藏自己中意的影片并制作成影单，记录自己的观影历史，不负好时光。
