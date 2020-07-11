@@ -19,7 +19,9 @@ Meanwhile, you can also collect your favorite movies and make a movie list to re
 
 飞鱼是使用Flutter开发的支援 #.m3u8, #.rtsp, #.rtmp 格式的视频播放器。
 
-你可以在应用内自由添加符合 FeiFeiCms 接口规范的搜索源或者 #.dpl, #.m3u, #.xspf 格式的直播源。同时，你也可以收藏自己中意的影片并制作成影单，记录自己的观影历史，不负好时光。
+你可以在应用内自由添加符合 FeiFeiCms 接口规范的搜索源或者 #.dpl, #.m3u, #.xspf 格式的直播源。
+
+同时，你也可以收藏自己中意的影片并制作成影单，记录自己的观影历史，不负好时光。
 
 # 预览
 
