@@ -41,7 +41,7 @@ Meanwhile, you can also collect your favorite movies and make a movie list to re
 
 # 获取软件
 
-关注微信公众号 **乂乂又又**，回复 **飞鱼** 即可下载。
+该应用已上架酷安，下载地址： https://www.coolapk.com/apk/com.cat.fish
 
 # 免责声明&反馈
 
