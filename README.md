@@ -35,27 +35,11 @@ Meanwhile, you can also collect your favorite movies and make a movie list to re
 | ![](screenshots/5.jpg)  |  ![](screenshots/6.jpg)  |  ![](screenshots/7.jpg) |  ![](screenshots/8.jpg)  |
 | :------------: | :------------: | :------------: | :------------: |
 
-# 充电&关于
-|  ![](screenshots/10.jpg) |  ![](screenshots/9.jpg)  |
-| :------------: | :------------: | 
+# 免责声明
 
-# 获取软件
-
-该应用已上架酷安，下载地址： https://www.coolapk.com/apk/com.cat.fish
-
-# 免责声明&反馈
-
-飞鱼为免费开源软件，仅供学习交流，用户可以非商业性地下载、安装、复制和散发本软件产品。
-
-免责声明： http://web.feiyu.idoo.top/feiyu_public/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.html 
-
-违规信息举报与反馈方式：请发邮件至 idootop@163. com，谢谢！
-
+本项目仅供 Flutter 学习交流。
 
 # 鸣谢
-
-
-非常感谢以下开源项目的支持，没有他们就没有本项目。
 
 befovy / fijkplayer  *MIT License* 
 https://github.com/befovy/fijkplayer/blob/master/LICENSE
@@ -66,10 +50,3 @@ https://github.com/succlz123/DLNA-Dart/blob/master/LICENSE
 
 IwantBEStrong / video_player_full_funciton 
 https://github.com/IwantBEStrong/video_player_full_funciton
-
-
-# 开源地址
-
-本项目早期核心版本已100%开源，希望能为大家提供帮助，
-
-开源地址 https://github.com/idootop/feiyu , 欢迎star，pr.  ^^
